@@ -4,4 +4,3 @@ cd build
 cmake ..
 cmake --build .
 
-./build/2Who 2009
